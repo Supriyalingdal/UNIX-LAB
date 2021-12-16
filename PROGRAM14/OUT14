@@ -1,0 +1,15 @@
+FIBONACCI SERIES
+Enter the number of fibonacci numbers to be generated
+10
+program14.sh: 4: program14.sh: function: not found
+Fibonacci Series up to 10 terms :
+0
+1
+1
+2
+3
+5
+8
+13
+21
+34
