@@ -1,0 +1,33 @@
+bmsce@bmsce-HP-Compaq-8000-Elite-CMT-PC:~$ sh program13.sh
+-----------------------------------
+	Student Mark List
+-----------------------------------
+Enter the Student name
+Supriya
+Enter the Register number
+1BM20CS415
+Enter the Mark1
+35
+Enter the Mark2
+60
+Enter the Mark3
+90
+Enter the Mark4
+70
+Enter the Mark5
+75
+-----------------------------------
+	Student Mark List
+-----------------------------------
+Student Name    : Supriya
+Register Number : 1BM20CS415
+Mark1           : 35
+Mark2           : 60
+Mark3           : 90
+Mark4           : 70
+Mark5           : 75
+Total           : 330
+Average         : 66
+Result          : Pass
+Grade           : C
+-----------------------------------
