@@ -1,0 +1,15 @@
+msce@bmsce-HP-Compaq-8000-Elite-CMT-PC:~$ sh program15.sh
+Enter the String
+Supriya
+a
+i
+u
+Number of vowels are
+3
+bmsce@bmsce-HP-Compaq-8000-Elite-CMT-PC:~$ sh program15.sh
+Enter the String
+APPLE
+E
+A
+Number of vowels are
+2
